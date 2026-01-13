@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Party Buffs
+## Notes: Automatically buffs party members based on class - Paladins cast Blessing of Might on Warriors, Mages cast Arcane Intellect
+## Author: Player
+## Version: 1.0
+
+PartyBuffs.lua
